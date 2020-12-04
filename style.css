@@ -1,0 +1,56 @@
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1, h2 {
+	font-family: 'Raleway', sans-serif
+}
+
+.covid {
+	background-color: #FF00E4;
+	padding: 10px;
+	margin: 10px 20px;
+	text-align: center;
+	box-shadow: 3px 5px 10px;
+	border-radius: 4px;
+}
+
+.container {
+	width: 700px;
+	margin: 20px auto;
+	padding: 20px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#avatar {
+	border-radius: 50%
+
+}
+
